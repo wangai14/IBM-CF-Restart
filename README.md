@@ -24,3 +24,7 @@ bash ibmcloud.sh
   重启脚本参考：peng4740
   
   
+
+
+
+
